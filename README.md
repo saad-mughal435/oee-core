@@ -1,9 +1,7 @@
 # oee-core
 
-A small, dependency-free **C++17** library and CLI for **Overall Equipment
-Effectiveness (OEE)** and downtime analytics — the same manufacturing-operations
-domain as my [ShopFloor API](https://github.com/saad-mughal435/shopfloor-api),
-expressed in modern C++.
+A small, dependency-free C++17 library and CLI for Overall Equipment
+Effectiveness (OEE) and downtime analytics.
 
 [![CI](https://github.com/saad-mughal435/oee-core/actions/workflows/ci.yml/badge.svg)](https://github.com/saad-mughal435/oee-core/actions/workflows/ci.yml)
 
